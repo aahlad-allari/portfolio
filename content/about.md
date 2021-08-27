@@ -8,7 +8,7 @@ author = "Aahlad Allari"
 
 Hi, I'm Aahlad, Principal Engineer Working for Quantela Inc.
 
-Born in Hyderabad(India) in 1995.
+Born in Hyderabad(India) in 1985.
 
 I am passionate in creating things, with the Code or with the Art.
 
