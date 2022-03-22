@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Aahlad Allari"
 +++
 
-Hi, I'm Aahlad, Principal Engineer Working for Quantela Inc.
+Hi, I'm Aahlad, Sr. Software Engineer Working for F5, inc.
 
 Born in Hyderabad(India) in 1985.
 
@@ -14,8 +14,9 @@ I am passionate in creating things, with the Code or with the Art.
 
 ##### I have Worked at:
 
+* F5 Inc.
 * Quantela Inc.
-* P5 Systems
+* Campusoft
 * RightSource Global
 * Ektha
 
