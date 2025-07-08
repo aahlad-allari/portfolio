@@ -53,6 +53,8 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Install Hugo Modules
+        run: hugo mod get
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
