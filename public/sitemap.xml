@@ -1,1 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>http://www.aahlad.dev/</loc><lastmod>2025-01-15T00:00:00+00:00</lastmod></url><url><loc>http://www.aahlad.dev/posts/human-compass/</loc><lastmod>2025-01-15T00:00:00+00:00</lastmod></url><url><loc>http://www.aahlad.dev/tags/infographic/</loc><lastmod>2025-01-15T00:00:00+00:00</lastmod></url><url><loc>http://www.aahlad.dev/tags/interactive/</loc><lastmod>2025-01-15T00:00:00+00:00</lastmod></url><url><loc>http://www.aahlad.dev/posts/</loc><lastmod>2025-01-15T00:00:00+00:00</lastmod></url><url><loc>http://www.aahlad.dev/tags/</loc><lastmod>2025-01-15T00:00:00+00:00</lastmod></url><url><loc>http://www.aahlad.dev/about/</loc><lastmod>2020-08-27T00:00:00+00:00</lastmod></url><url><loc>http://www.aahlad.dev/authors/</loc></url><url><loc>http://www.aahlad.dev/categories/</loc></url><url><loc>http://www.aahlad.dev/contact/</loc></url><url><loc>http://www.aahlad.dev/projects/</loc></url><url><loc>http://www.aahlad.dev/series/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.aahlad.dev/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aahlad.dev/posts/human-compass/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aahlad.dev/tags/infographic/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aahlad.dev/tags/interactive/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aahlad.dev/posts/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aahlad.dev/tags/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aahlad.dev/about/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.aahlad.dev/authors/</loc>
+  </url><url>
+    <loc>http://www.aahlad.dev/categories/</loc>
+  </url><url>
+    <loc>http://www.aahlad.dev/contact/</loc>
+  </url><url>
+    <loc>http://www.aahlad.dev/projects/</loc>
+  </url><url>
+    <loc>http://www.aahlad.dev/series/</loc>
+  </url>
+</urlset>

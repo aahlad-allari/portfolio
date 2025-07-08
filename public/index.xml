@@ -1,45 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aahlad</title><link>http://www.aahlad.dev/</link><description>Recent content on Aahlad</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.aahlad.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Human Compass Infographic</title><link>http://www.aahlad.dev/posts/human-compass/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>http://www.aahlad.dev/posts/human-compass/</guid><description>&lt;h1 id="the-human-compass">
- The Human Compass
- &lt;a class="heading-link" href="#the-human-compass">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h1>
-&lt;p>An interactive infographic exploring the three pillars of mastery: Remember, Learn, and Offload.&lt;/p>
-&lt;p>&lt;strong>&lt;a href="http://www.aahlad.dev/human-compass-static.html" >View Full Interactive Infographic →&lt;/a>&lt;/strong>&lt;/p>
-&lt;p>This comprehensive visual guide synthesizes wisdom from history&amp;rsquo;s greatest minds including Einstein, Buddha, and Buffett, presenting a unified philosophy for integrated excellence in our technological world.&lt;/p>
-&lt;h2 id="features">
- Features:
- &lt;a class="heading-link" href="#features">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Interactive radar chart showing convergence of wisdom&lt;/li>
-&lt;li>Visual frameworks for mental models&lt;/li>
-&lt;li>The C.O.D.E. and P.A.R.A. methodologies&lt;/li>
-&lt;li>Fully responsive design with beautiful animations&lt;/li>
-&lt;/ul></description></item><item><title>About</title><link>http://www.aahlad.dev/about/</link><pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate><guid>http://www.aahlad.dev/about/</guid><description>&lt;p>Hi, I&amp;rsquo;m Aahlad, Sr. Software Engineer Working for F5, inc.&lt;/p>
-&lt;p>Born in Hyderabad(India) in 1985.&lt;/p>
-&lt;p>I am passionate in creating things, with the Code or with the Art.&lt;/p>
-&lt;h5 id="i-have-worked-at">
- I have Worked at:
- &lt;a class="heading-link" href="#i-have-worked-at">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h5>
-&lt;ul>
-&lt;li>F5 Inc.&lt;/li>
-&lt;li>Quantela Inc.&lt;/li>
-&lt;li>Campusoft&lt;/li>
-&lt;li>RightSource Global&lt;/li>
-&lt;li>Ektha&lt;/li>
-&lt;/ul>
-&lt;p>Fun Fact,&lt;/p>
-&lt;ul>
-&lt;li>I am a proud Shibe(a Doge Coin Lover)&lt;/li>
-&lt;li>9Gager&lt;/li>
-&lt;li>Redditor&lt;/li>
-&lt;/ul></description></item><item><title>Contact</title><link>http://www.aahlad.dev/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.aahlad.dev/contact/</guid><description>&lt;p>Follow me, @AahladAllari.&lt;/p></description></item><item><title>Projects</title><link>http://www.aahlad.dev/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.aahlad.dev/projects/</guid><description>&lt;p>Nothing to see here&amp;hellip; Move along!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aahlad</title>
+    <link>http://www.aahlad.dev/</link>
+    <description>Recent content on Aahlad</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.aahlad.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human Compass Infographic</title>
+      <link>http://www.aahlad.dev/posts/human-compass/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.aahlad.dev/posts/human-compass/</guid>
+      <description>&lt;h1 id=&#34;the-human-compass&#34;&gt;&#xA;  The Human Compass&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-human-compass&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;An interactive infographic exploring the three pillars of mastery: Remember, Learn, and Offload.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.aahlad.dev/human-compass-static.html&#34; &gt;View Full Interactive Infographic →&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This comprehensive visual guide synthesizes wisdom from history&amp;rsquo;s greatest minds including Einstein, Buddha, and Buffett, presenting a unified philosophy for integrated excellence in our technological world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;&#xA;  Features:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#features&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Interactive radar chart showing convergence of wisdom&lt;/li&gt;&#xA;&lt;li&gt;Visual frameworks for mental models&lt;/li&gt;&#xA;&lt;li&gt;The C.O.D.E. and P.A.R.A. methodologies&lt;/li&gt;&#xA;&lt;li&gt;Fully responsive design with beautiful animations&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://www.aahlad.dev/about/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.aahlad.dev/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Aahlad, Sr. Software Engineer Working for F5, inc.&lt;/p&gt;&#xA;&lt;p&gt;Born in Hyderabad(India) in 1985.&lt;/p&gt;&#xA;&lt;p&gt;I am passionate in creating things, with the Code or with the Art.&lt;/p&gt;&#xA;&lt;h5 id=&#34;i-have-worked-at&#34;&gt;&#xA;  I have Worked at:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#i-have-worked-at&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;F5 Inc.&lt;/li&gt;&#xA;&lt;li&gt;Quantela Inc.&lt;/li&gt;&#xA;&lt;li&gt;Campusoft&lt;/li&gt;&#xA;&lt;li&gt;RightSource Global&lt;/li&gt;&#xA;&lt;li&gt;Ektha&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Fun Fact,&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I am a proud Shibe(a Doge Coin Lover)&lt;/li&gt;&#xA;&lt;li&gt;9Gager&lt;/li&gt;&#xA;&lt;li&gt;Redditor&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://www.aahlad.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.aahlad.dev/contact/</guid>
+      <description>&lt;p&gt;Follow me, @AahladAllari.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://www.aahlad.dev/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.aahlad.dev/projects/</guid>
+      <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
