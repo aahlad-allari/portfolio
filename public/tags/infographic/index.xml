@@ -1,19 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Infographic on Aahlad</title>
-    <link>http://localhost:1313/tags/infographic/</link>
-    <description>Recent content in Infographic on Aahlad</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/infographic/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Human Compass Infographic</title>
-      <link>http://localhost:1313/posts/human-compass/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/human-compass/</guid>
-      <description>&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;Hello World&lt;/code&gt;&lt;/span&gt;  &#xA;&lt;/p&gt;&#xA;&lt;br&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infographic on Aahlad</title><link>http://www.aahlad.dev/tags/infographic/</link><description>Recent content in Infographic on Aahlad</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.aahlad.dev/tags/infographic/index.xml" rel="self" type="application/rss+xml"/><item><title>Human Compass Infographic</title><link>http://www.aahlad.dev/posts/human-compass/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>http://www.aahlad.dev/posts/human-compass/</guid><description>&lt;h1 id="the-human-compass">
+ The Human Compass
+ &lt;a class="heading-link" href="#the-human-compass">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>An interactive infographic exploring the three pillars of mastery: Remember, Learn, and Offload.&lt;/p>
+&lt;p>&lt;strong>&lt;a href="http://www.aahlad.dev/human-compass-static.html" >View Full Interactive Infographic →&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>This comprehensive visual guide synthesizes wisdom from history&amp;rsquo;s greatest minds including Einstein, Buddha, and Buffett, presenting a unified philosophy for integrated excellence in our technological world.&lt;/p>
+&lt;h2 id="features">
+ Features:
+ &lt;a class="heading-link" href="#features">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Interactive radar chart showing convergence of wisdom&lt;/li>
+&lt;li>Visual frameworks for mental models&lt;/li>
+&lt;li>The C.O.D.E. and P.A.R.A. methodologies&lt;/li>
+&lt;li>Fully responsive design with beautiful animations&lt;/li>
+&lt;/ul></description></item></channel></rss>
