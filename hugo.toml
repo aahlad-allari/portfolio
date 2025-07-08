@@ -152,3 +152,7 @@ url = "contact/"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[module]
+  [[module.imports]]
+    path = "hugo-coder"
