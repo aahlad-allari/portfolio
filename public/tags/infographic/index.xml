@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infographic on Aahlad</title>
+    <link>http://localhost:1313/tags/infographic/</link>
+    <description>Recent content in Infographic on Aahlad</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/infographic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human Compass Infographic</title>
+      <link>http://localhost:1313/posts/human-compass/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/human-compass/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;Hello World&lt;/code&gt;&lt;/span&gt;  &#xA;&lt;/p&gt;&#xA;&lt;br&gt;</description>
+    </item>
+  </channel>
+</rss>

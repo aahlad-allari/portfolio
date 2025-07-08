@@ -3,7 +3,8 @@ title = "Aahlad"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
+[pagination]
+  pagerSize = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
@@ -147,4 +148,7 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
