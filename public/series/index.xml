@@ -4,7 +4,8 @@
     <title>Series on Aahlad</title>
     <link>http://www.aahlad.dev/series/</link>
     <description>Recent content in Series on Aahlad</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.aahlad.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://www.aahlad.dev/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

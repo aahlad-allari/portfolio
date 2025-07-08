@@ -4,17 +4,23 @@
     <title>Posts on Aahlad</title>
     <link>http://www.aahlad.dev/posts/</link>
     <description>Recent content in Posts on Aahlad</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.aahlad.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.aahlad.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human Compass Infographic</title>
+      <link>http://www.aahlad.dev/posts/human-compass/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.aahlad.dev/posts/human-compass/</guid>
+      <description>&lt;h1 id=&#34;the-human-compass&#34;&gt;&#xA;  The Human Compass&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-human-compass&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;An interactive infographic exploring the three pillars of mastery: Remember, Learn, and Offload.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.aahlad.dev/human-compass-static.html&#34; &gt;View Full Interactive Infographic →&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This comprehensive visual guide synthesizes wisdom from history&amp;rsquo;s greatest minds including Einstein, Buddha, and Buffett, presenting a unified philosophy for integrated excellence in our technological world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;&#xA;  Features:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#features&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Interactive radar chart showing convergence of wisdom&lt;/li&gt;&#xA;&lt;li&gt;Visual frameworks for mental models&lt;/li&gt;&#xA;&lt;li&gt;The C.O.D.E. and P.A.R.A. methodologies&lt;/li&gt;&#xA;&lt;li&gt;Fully responsive design with beautiful animations&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Started My Personal Blog</title>
       <link>http://www.aahlad.dev/posts/hello-world/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://www.aahlad.dev/posts/hello-world/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;Hello World&lt;/code&gt;&lt;/span&gt;  &#xA;&lt;/p&gt;&#xA;&lt;br&gt;</description>
     </item>
-    
   </channel>
 </rss>

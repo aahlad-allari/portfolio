@@ -4,17 +4,30 @@
     <title>Tags on Aahlad</title>
     <link>http://www.aahlad.dev/tags/</link>
     <description>Recent content in Tags on Aahlad</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.aahlad.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.aahlad.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>emoji</title>
+      <title>Infographic</title>
+      <link>http://www.aahlad.dev/tags/infographic/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.aahlad.dev/tags/infographic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interactive</title>
+      <link>http://www.aahlad.dev/tags/interactive/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.aahlad.dev/tags/interactive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
       <link>http://www.aahlad.dev/tags/emoji/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://www.aahlad.dev/tags/emoji/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
